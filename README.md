@@ -1,15 +1,20 @@
 # DatasetDM
 Official code for 'DatasetDM:Synthesizing Data with Perception Annotations Using Diffusion Models'
 
+
 <p align="center">
 <img src="./asset/1683979085453.jpg" width="800px"/>  
 <br>
 </p>
 
+[Project Website](https://weijiawu.github.io/DatasetDM_page/)  | [Paper]()(Arxiv paper is on the way) 
 
 ## :fire: News
 
-* **[2023.4.17]** We initialize the Repo.
+* **[note]** We will release the code within three months. Please wait.
+
+
+* **[2023.8.11]** We initialize the Repo.
 
 
 ## :paintbrush: DEMO
