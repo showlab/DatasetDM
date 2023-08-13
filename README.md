@@ -366,6 +366,10 @@ sh ./script/augmentation_VOC.sh
 sh ./script/train_instance_LVIS.sh
 ```
 
+```sh
+# Generate synthetic data for VOC
+sh ./script/data_generation_LVIS_instance.sh
+```
 
 
 ## Citation
