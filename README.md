@@ -7,7 +7,7 @@ Official code for 'DatasetDM:Synthesizing Data with Perception Annotations Using
 <br>
 </p>
 
-[Project Website](https://weijiawu.github.io/DatasetDM_page/)  | [Paper]()(Arxiv paper is on the way) 
+[Project Website](https://weijiawu.github.io/DatasetDM_page/)  | [Paper](https://arxiv.org/abs/2308.06160)
 
 ## :fire: News
 
