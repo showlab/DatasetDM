@@ -371,6 +371,25 @@ sh ./script/train_instance_LVIS.sh
 sh ./script/data_generation_LVIS_instance.sh
 ```
 
+## Acknowledgements
+This work draws inspiration from the following code as references. We extend our gratitude to these remarkable contributions:
+
+- [Grounded-Diffusion](https://github.com/Lipurple/Grounded-Diffusion)
+- [Mask2Former](https://github.com/facebookresearch/Mask2Former) 
+- [GenPromp](https://github.com/callsys/GenPromp)
+- [Depthformer](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/633580d0ed7395734a034abfebf2ddb6ad579d75/configs/depthformer)
+- [DeepFashion-MM](https://github.com/yumingj/DeepFashion-MultiModal)
+
+
 
 ## Citation
+
+```
+@article{wu2023datasetdm,
+  title={DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models},
+  author={Wu, Weijia and Zhao, Yuzhong and Chen, Hao and Gu, Yuchao and Zhao, Rui and He, Yefei and Zhou, Hong and Shou, Mike Zheng and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2308.06160},
+  year={2023}
+}
+```
 
