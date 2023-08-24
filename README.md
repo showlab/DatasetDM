@@ -72,6 +72,10 @@ Then install other packages:
 python -m pip install -r requirements.txt
 ```
 
+Download the weights and configuration files of [SD 1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4/tree/main) and place them in the ```./dataset/ckpts``` directory.
+
+
+
 ### Dataset Prepare
 
 - Depth Estimation: Please follow [MED](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) to prepare the dataset on ```./data```
