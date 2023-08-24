@@ -1,0 +1,2 @@
+# Instance Segmentation  COCO CUDA_VISIBLE_DEVICES=0 
+python tools/parallel_generate_Instance_COCO_AnyClass.py --sd_ckpt './models/ldm/stable-diffusion-v1/stable_diffusion.ckpt' --grounding_ckpt './checkpoint/Train_10_images_t1_attention_transformer_COCO_10layers_NoClass/latest_checkpoint.pth' --n_each_class 2 --outdir './DataDiffusion/COCO_Train_10_images_t1_10layers_NoClass_matting/' --thread_num 1 --H 512 --W 512 --config './config/coco/COCO_Instance_Seg_10Images.yaml'

@@ -1,0 +1,32 @@
+A busy street with multiple lanes of traffic and pedestrians walking on the sidewalks on either side.
+A quiet residential street with houses on either side and a sidewalk running alongside the road.
+A street with a bike lane and a wide sidewalk for pedestrians on a four-lane road.
+A narrow street with a single lane of traffic and a narrow sidewalk on one side.
+A street with a median dividing two lanes of traffic and sidewalks on both sides.
+A street with a pedestrian bridge over a busy intersection and sidewalks on either side on a wide road.
+A street with a bus lane and a dedicated sidewalk for bus passengers on a four-lane road.
+A street with a park on one side and a wide sidewalk for pedestrians on the other on a two-lane road.
+A street with a subway station entrance and a wide sidewalk for commuters on a four-lane road.
+A street with a row of shops and cafes on one side and a narrow sidewalk for pedestrians on a two-lane road.
+A street with a large office building on one side and a wide sidewalk for pedestrians on the other on a four-lane road.
+A street with a construction site and a temporary sidewalk for pedestrians on a narrow road.
+A street with a pedestrian plaza and benches and trees on a wide sidewalk on a two-lane road.
+A street with a pedestrian-only zone and shops and restaurants on either side on a narrow road.
+A street with a pedestrian underpass and sidewalks running alongside on a four-lane road.
+A street with a large university campus on one side and a wide sidewalk for pedestrians on the other on a two-lane road.
+A street with a historic district and a narrow sidewalk for pedestrians on a narrow road.
+A street with a residential neighborhood and a wide sidewalk for pedestrians on a four-lane road.
+A street with a beach on one side and a wide sidewalk for pedestrians on the other on a narrow road.
+A street with a wide median dividing multiple lanes of traffic and wide sidewalks on both sides on a four-lane road.
+A street with a city square and a wide sidewalk surrounding it on a two-lane road.
+A street with a public park on one side and a wide sidewalk for pedestrians on the other on a narrow road.
+A street with a busy commercial district and a narrow sidewalk for pedestrians on a four-lane road.
+A street with a pedestrian tunnel and sidewalks running alongside on a narrow road.
+A street with a residential area and a wide sidewalk for pedestrians on a two-lane road.
+A street with a large sports stadium on one side and a wide sidewalk for pedestrians on the other on a four-lane road.
+A street with a historic church on one side and a wide sidewalk for pedestrians on the other on a narrow road.
+A street with a railway station and a wide sidewalk for commuters on a four-lane road.
+A street with a row of townhouses on one side and a narrow sidewalk for pedestrians on a narrow road.
+A street with a bustling market and a narrow sidewalk for pedestrians on a two-lane road.
+A street with a hospital complex on one side and a wide sidewalk for pedestrians on the other on a four-lane road.
+A street with a large shopping mall on one side and a wide sidewalk for pedestrians on the other on a narrow road.

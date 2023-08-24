@@ -1,0 +1,2 @@
+# Instance Segmentation  COCO CUDA_VISIBLE_DEVICES=0 
+python tools/parallel_generate_Instance_LVIS_AnyClass.py --sd_ckpt './models/ldm/stable-diffusion-v1/stable_diffusion.ckpt' --grounding_ckpt './checkpoint/Train_1_images_t1_attention_transformer_LVIS_10layers_NoClass/latest_checkpoint.pth' --n_each_class 50 --outdir './DataDiffusion/LVIS_Train_1_images_t1_10layers_NoClass/' --thread_num 8 --H 512 --W 512 --config './config/LVIS/LVIS_Instance_Seg_10Images.yaml' --lvis_train_json './data/lvis/lvis_v1_train.json' --prompt_root "./dataset/Prompts_From_GPT/LVIS"

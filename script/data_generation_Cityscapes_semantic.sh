@@ -1,0 +1,3 @@
+# CUDA_VISIBLE_DEVICES=3 
+# Semantic Segmentation  CityScapes
+CUDA_VISIBLE_DEVICES=4,5,6,7 python tools/parallel_generate_Semantic_CityScapes_AnyClass.py --sd_ckpt './models/ldm/stable-diffusion-v1/stable_diffusion.ckpt' --grounding_ckpt './checkpoint/Train_1_images_t1_attention_transformer_Cityscapes_10layers/latest_checkpoint.pth' --n_each_class 2000 --outdir './DataDiffusion/Cityscapes_Train_19_images_t1/' --thread_num 4 --H 512 --W 512

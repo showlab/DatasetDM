@@ -1,0 +1,1 @@
+python tools/splicing_augmentation_NYU.py --input_root "NYU_Train_250_images_t1" --out_root "Augmentation_NYU" --thread_num 7

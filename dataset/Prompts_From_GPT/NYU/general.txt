@@ -1,0 +1,195 @@
+A living room with a sofa, coffee table, and rug.
+A bedroom with a queen-size bed, dresser, and nightstand.
+A kitchen with white cabinets, stainless steel appliances, and a wooden table.
+A bathroom with a sink, toilet, and bathtub.
+An office with a desk, chair, and bookshelf.
+A dining room with a large table, chairs, and chandelier.
+A nursery with a crib, rocking chair, and changing table.
+A gym with exercise equipment and a weight bench.
+A garage with a car, tools, and workbench.
+A laundry room with a washer, dryer, and ironing board.
+A library with bookshelves, a reading chair, and a table.
+A music room with instruments, sheet music, and soundproofing.
+A game room with a pool table, dartboard, and bar.
+A home theater with a large screen, comfortable seating, and surround sound.
+A wine cellar with racks of wine bottles and tasting area.
+A pantry with shelves stocked with food and supplies.
+A walk-in closet with clothing racks and shoe shelves.
+A craft room with a sewing machine, work table, and supplies.
+A home office with a desk, computer, and printer.
+A greenhouse with plants, pots, and gardening tools.
+A conservatory with a variety of plants and seating areas.
+A meditation room with pillows, mats, and candles.
+A playroom with toys, games, and a table for activities.
+A trophy room with awards and memorabilia on display.
+A wine tasting room with a bar and seating for guests.
+A darkroom with photography equipment and a developing station.
+A dressing room with mirrors, makeup, and hair styling tools.
+A recording studio with soundproofing, microphones, and instruments.
+A meditation garden with a water feature and seating area.
+A sunroom with natural light and comfortable seating.
+An art studio with an easel, paints, and brushes.
+A reading nook with a comfortable chair and bookshelves.
+A home gym with exercise equipment and weights.
+A wine storage room with temperature control and racks.
+A utility room with a sink and storage for cleaning supplies.
+A mudroom with storage for shoes, coats, and bags.
+A game closet with board games, puzzles, and card games.
+A study with a desk, shelves, and a comfortable chair.
+A home library with bookshelves and comfortable seating.
+A children's play area with toys and games.
+An art gallery with paintings, sculptures, and installations.
+A craft closet with supplies for various projects.
+A home bar with a countertop, sink, and refrigerator.
+A sewing room with a sewing machine and supplies.
+A soundproof music practice room with instruments.
+A workshop with tools and workbench for DIY projects.
+A sports equipment storage room with racks for gear.
+A wine vault with locked storage for valuable bottles.
+A meditation loft with floor pillows and a view.
+A movie room with theater-style seating and a large screen.
+A game arcade with various arcade games and pinball machines.
+A cluttered living room with a large couch and a bookshelf against the wall.
+A brightly-lit kitchen with a stainless steel refrigerator and a wooden table.
+A cozy bedroom with a queen-sized bed and a window overlooking the city.
+A spacious dining room with a long wooden table and leather chairs.
+A modern bathroom with a bathtub and a glass shower stall.
+A cluttered study with a large wooden desk and bookshelves lining the walls.
+A small but cozy apartment with a comfortable couch and a TV.
+An elegant bedroom with a four-poster bed and a mirrored dresser.
+A stylish living room with a large sectional sofa and a fireplace.
+A minimalist kitchen with stainless steel appliances and white cabinets.
+A rustic bedroom with a wooden bed frame and exposed brick walls.
+A spacious living room with a high ceiling and large windows.
+A chic bathroom with a freestanding tub and modern fixtures.
+A cozy reading nook with a comfortable chair and a bookshelf.
+A sleek kitchen with black countertops and stainless steel appliances.
+A bright and airy bedroom with a white bedspread and floral curtains.
+A simple but elegant dining room with a round table and upholstered chairs.
+A cozy den with a leather armchair and a bookshelf.
+A modern bathroom with a glass shower stall and marble countertops.
+A large and inviting living room with a sectional sofa and a coffee table.
+A spacious bedroom with a king-sized bed and a walk-in closet.
+A minimalist kitchen with sleek white cabinets and a glass backsplash.
+A cozy sitting area with a fireplace and a comfy armchair.
+A luxurious bathroom with a large soaking tub and a rain showerhead.
+A rustic dining room with a wooden table and benches.
+A cozy bedroom with a canopy bed and a fluffy rug.
+A sleek and modern living room with a black leather sofa and glass coffee table.
+A spacious kitchen with an island and stainless steel appliances.
+A chic bathroom with a clawfoot tub and vintage fixtures.
+A comfortable reading area with a leather chair and ottoman.
+A bright and airy bedroom with a white bedspread and a window seat.
+A formal dining room with a chandelier and upholstered chairs.
+A cozy office with a wooden desk and a comfortable chair.
+A luxurious bathroom with a marble shower stall and a double vanity.
+A rustic living room with a wooden coffee table and exposed beams.
+A spacious bedroom with a high ceiling and a large window.
+A modern kitchen with a white subway tile backsplash and stainless steel appliances.
+A cozy sitting area with a fireplace and a comfortable armchair.
+A stylish bathroom with a glass shower stall and modern fixtures.
+A reading nook with a comfortable chair and a floor-to-ceiling bookshelf.
+A bright and airy bedroom with a white bedspread and a cozy rug.
+A formal dining room with a wooden table and upholstered chairs.
+A cozy den with a leather sofa and a bookshelf.
+A luxurious bathroom with a large soaking tub and marble countertops.
+A rustic kitchen with wooden cabinets and a farmhouse sink.
+A comfortable bedroom with a queen-sized bed and a fluffy duvet.
+A modern living room with a black leather sofa and glass coffee table.
+A spacious kitchen with an island and stainless steel appliances.
+A chic bathroom with a freestanding tub and modern fixtures.
+A spacious living room with a large sofa, armchairs, and a coffee table.
+A cozy bedroom with a comfortable bed, a bedside table, and a lamp.
+A modern kitchen with stainless steel appliances, a countertop, and cabinets.
+A dining room with a large table, chairs, and a beautiful chandelier.
+A well-lit study with a desk, a bookshelf, and a comfortable chair.
+A bathroom with a sink, a toilet, a shower, and a bathtub.
+A kid's room with colorful toys, a bunk bed, and a study desk.
+A minimalist bedroom with a platform bed, a rug, and a floor lamp.
+A spacious hallway with a shoe rack, a coat hanger, and a mirror.
+A gym with exercise equipment, a yoga mat, and a treadmill.
+A laundry room with a washer, a dryer, and a drying rack.
+A home theater with a large screen, comfortable chairs, and surround sound.
+A game room with a pool table, a dartboard, and a bar.
+A craft room with a table, storage shelves, and a sewing machine.
+A music room with instruments, sheet music, and a recording setup.
+A reading nook with a comfortable chair, a lamp, and a bookshelf.
+A walk-in closet with shelves, drawers, and hanging space.
+A home office with a desk, a chair, and a computer setup.
+A meditation room with cushions, candles, and incense.
+A baby's room with a crib, a changing table, and toys.
+A guest room with a bed, a nightstand, and a dresser.
+A pet's room with a bed, toys, and food bowls.
+A dressing room with a full-length mirror and a makeup table.
+A library with shelves full of books, a ladder, and comfortable seating.
+A conservatory with plants, a seating area, and natural light.
+A sunroom with comfortable seating and views of the outdoors.
+A wine cellar with racks, a tasting table, and a cooler.
+A game room with arcade games, pinball machines, and a bar.
+A home bar with a countertop, stools, and a liquor collection.
+A trophy room with awards, medals, and memorabilia on display.
+A studio with art supplies, a drafting table, and natural light.
+A darkroom with enlargers, trays, and a photo processing setup.
+A greenhouse with plants, a potting table, and natural light.
+A tool shed with a workbench, tools, and storage shelves.
+A pool house with a seating area, a shower, and a changing room.
+A recording studio with soundproofing, mixing equipment, and instruments.
+A workshop with power tools, workbenches, and storage.
+A mudroom with a bench, storage, and hooks for coats and bags.
+A home spa with a sauna, a steam room, and a massage table.
+A home science lab with equipment, supplies, and a fume hood.
+A dance studio with mirrors, ballet bars, and a sound system.
+A home observatory with a telescope, a star chart, and a comfortable chair.
+A home classroom with a whiteboard, desks, and educational supplies.
+A wine tasting room with seating, glasses, and a selection of wines.
+A cozy living room with a plush couch and a coffee table.
+A spacious dining room with a long wooden table and elegant chairs.
+A modern kitchen with stainless steel appliances and a granite countertop.
+A bedroom with a comfortable bed and a dresser.
+A cluttered home office with a desk, computer, and stacks of papers.
+A small bathroom with a sink, toilet, and shower.
+A brightly lit hallway with artwork on the walls.
+A dimly lit basement with storage boxes and a washer and dryer.
+A sunlit conservatory with potted plants and comfortable seating.
+A cozy den with a fireplace and a leather armchair.
+A cluttered playroom with toys and games scattered about.
+A luxurious master bedroom with a four-poster bed and a balcony.
+A sleek home theater with a large screen and reclining chairs.
+A rustic farmhouse kitchen with exposed brick and wooden cabinets.
+A minimalist living room with a low coffee table and floor cushions.
+A spacious walk-in closet with shelves and hanging racks.
+A colorful nursery with a crib and stuffed animals.
+A vintage bathroom with a clawfoot bathtub and a pedestal sink.
+A small reading nook with a comfortable armchair and a lamp.
+A bright and airy sunroom with a view of the garden.
+A cozy attic bedroom with a sloped ceiling and a skylight.
+A retro living room with a shag rug and a lava lamp.
+A cluttered art studio with canvases and paintbrushes.
+A large gym with weights and exercise equipment.
+A sleek and modern bathroom with a glass shower.
+A spacious game room with a pool table and arcade games.
+A luxurious spa with a hot tub and sauna.
+A cozy guest bedroom with a queen-sized bed.
+A stylish home office with a glass desk and leather chair.
+A vintage kitchen with colorful tiles and a gas stove.
+A serene meditation room with floor cushions and candles.
+A dark and moody music room with instruments and amps.
+A cheerful children's bedroom with bunk beds and toys.
+A spacious laundry room with a folding table and ironing board.
+A rustic cabin living room with a stone fireplace.
+A sleek and modern dining room with a glass table and black chairs.
+A minimalist bathroom with a floating sink and mirror.
+A cozy and inviting family room with a sectional sofa and a fireplace.
+A bright and sunny breakfast nook with a view of the garden.
+A spacious home library with floor-to-ceiling bookshelves.
+A cozy reading corner with a plush armchair and a bookshelf.
+A rustic barn kitchen with a farmhouse sink and wooden cabinets.
+A spacious basement game room with a ping pong table and dart board.
+A bright and colorful craft room with a sewing machine and supplies.
+A stylish dressing room with a vanity and full-length mirror.
+A cozy attic bedroom with a built-in window seat and bookshelf.
+A sleek and modern living room with a sectional sofa and a geometric rug.
+A spacious home gym with a treadmill and weights.
+A bright and airy laundry room with a window and hanging racks.
+A cozy sunroom with a wicker sofa and potted plants.
+A vintage-inspired bathroom with patterned tiles and a clawfoot tub.

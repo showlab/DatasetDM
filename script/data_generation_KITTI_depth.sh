@@ -1,0 +1,3 @@
+# CUDA_VISIBLE_DEVICES=3 
+# Depth Estimation  KITTI
+CUDA_VISIBLE_DEVICES=0,2,3,4,6,7 python tools/parallel_generate_Depth_KITTI.py --sd_ckpt './models/ldm/stable-diffusion-v1/stable_diffusion.ckpt' --grounding_ckpt './checkpoint/Train_50_images_t1_attention_transformer_KITTI_10layers/latest_checkpoint.pth' --n_each_class 20000 --outdir './DataDiffusion/KITTI_Train_50_images_t1/' --thread_num 6 --H 512 --W 512 --config './config/KITTI/KITTI_Depth_50images.yaml' --prompt_root "./dataset/Prompts_From_GPT/KITTI"

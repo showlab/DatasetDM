@@ -1,0 +1,27 @@
+MODEL:
+  name: "DataDiffusion"
+DATASETS:
+  dataset: "LVIS"
+  image_limitation: 10
+  batch_size: 1
+Diffusion:
+  name: "StableDiffusion"
+  LOW_RESOURCE: False 
+  NUM_DIFFUSION_STEPS: 50
+  GUIDANCE_SCALE: 7.5
+  MAX_NUM_WORDS: 77
+SOLVER:
+  learning_rate: 0.0001
+  total_epoch: 5000
+  adam_weight_decay: 0.0001
+SEG_Decorder:
+  num_classes: 80
+  num_queries: 100
+  task: "instance"
+  no_object_weight: 0.1
+  CLASS_WEIGHT: 2.0
+  MASK_WEIGHT: 5.0
+  DICE_WEIGHT: 5.0
+  TRAIN_NUM_POINTS: 12544
+  OVERSAMPLE_RATIO: 3.0
+  IMPORTANCE_SAMPLE_RATIO: 0.75

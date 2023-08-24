@@ -1,0 +1,2 @@
+# Cityscapes Semantic Segmentation
+CUDA_VISIBLE_DEVICES=4 python tools/train_semantic_cityscapes.py --save_name Train_5_images_t1_attention_transformer_DeepFashionMM_10layers --config ./config/deepfashion/Deepfashion_Semantic_Seg_5mages.yaml --image_limitation 5

@@ -1,0 +1,24 @@
+MODEL:
+  name: "DataDiffusion"
+  HEAD_INPUT: 1024
+DATASETS:
+  dataset: "coco_pose"
+  image_limitation: 100
+  batch_size: 1
+  IMAGE_SIZE: [512,512]
+  HEATMAP_SIZE: [64,64]
+  TYPE: 'NMTCritierion'
+Diffusion:
+  name: "StableDiffusion"
+  LOW_RESOURCE: False 
+  NUM_DIFFUSION_STEPS: 50
+  GUIDANCE_SCALE: 7.5
+  MAX_NUM_WORDS: 77
+SOLVER:
+  learning_rate: 0.0001
+  total_epoch: 5000
+  adam_weight_decay: 0.0001
+Depth_Decorder:
+  max_depth: 10
+  min_depth: 0.001
+  task: "depth"

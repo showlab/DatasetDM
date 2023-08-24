@@ -1,0 +1,1 @@
+python tools/splicing_augmentation_Cityscapes.py --input_root "Cityscapes_Train_19_images_t1" --out_root "Augmentation" --thread_num 7

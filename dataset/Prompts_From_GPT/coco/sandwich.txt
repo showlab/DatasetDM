@@ -1,0 +1,36 @@
+A juicy chicken sandwich with lettuce and tomato.
+A grilled cheese sandwich with melted cheese oozing out.
+A classic BLT sandwich with crispy bacon, fresh lettuce, and juicy tomato.
+A turkey club sandwich with bacon, lettuce, tomato, and mayo on toasted bread.
+A ham and cheese sandwich with dijon mustard and pickles on a baguette.
+A vegetarian sandwich with avocado, cucumber, and sprouts on whole wheat bread.
+A pastrami sandwich with spicy mustard and sauerkraut on rye bread.
+A pulled pork sandwich with coleslaw on a brioche bun.
+A tuna salad sandwich with lettuce and tomato on whole grain bread.
+A roast beef sandwich with horseradish sauce and arugula on ciabatta bread.
+A veggie burger with avocado, lettuce, and tomato on a sesame seed bun.
+A falafel sandwich with tahini sauce and pickled vegetables on pita bread.
+A smoked salmon bagel sandwich with cream cheese and capers.
+A buffalo chicken sandwich with blue cheese dressing and celery on a bun.
+A meatball sub with marinara sauce and melted mozzarella cheese on a hoagie roll.
+A fried egg sandwich with bacon and cheddar cheese on a croissant.
+A grilled chicken sandwich with pesto and roasted red peppers on focaccia bread.
+A crab cake sandwich with remoulade sauce and lettuce on a brioche bun.
+A banh mi sandwich with pork belly, pickled vegetables, and cilantro on a baguette.
+A lobster roll sandwich with buttered brioche and lemon aioli.
+A pulled beef brisket sandwich with BBQ sauce and coleslaw on a brioche bun.
+A Reuben sandwich with corned beef, sauerkraut, and thousand island dressing on rye bread.
+A Philly cheesesteak sandwich with thinly sliced beef, onions, and melted cheese on a hoagie roll.
+A Cuban sandwich with roasted pork, ham, Swiss cheese, pickles, and mustard on a pressed roll.
+A breakfast sandwich with scrambled eggs, sausage, and cheddar cheese on an English muffin.
+A croque monsieur sandwich with ham, Gruyere cheese, and béchamel sauce on toasted bread.
+A pulled chicken sandwich with coleslaw and BBQ sauce on a potato bun.
+A chicken parm sandwich with marinara sauce and melted mozzarella cheese on a ciabatta roll.
+A hot dog sandwich with ketchup, mustard, and relish on a soft bun.
+A roast turkey sandwich with cranberry sauce and stuffing on whole grain bread.
+A tuna melt sandwich with melted cheddar cheese and tomato on rye bread.
+A roast pork sandwich with broccoli rabe and provolone cheese on a hoagie roll.
+A smoked brisket sandwich with pickles and mustard on a brioche bun.
+A salami sandwich with roasted red peppers, provolone cheese, and balsamic vinegar on a baguette.
+A tempeh Reuben sandwich with sauerkraut, Swiss cheese, and thousand island dressing on rye bread.
+A gyro sandwich with lamb, tzatziki sauce, and lettuce on a pita.

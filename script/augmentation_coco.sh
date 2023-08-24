@@ -1,0 +1,1 @@
+python tools/splicing_augmentation_coco.py --input_root "COCO_Train_5_images_t1_10layers_NoClass" --out_root "Augmentation" --thread_num 7
