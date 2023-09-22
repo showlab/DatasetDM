@@ -1,4 +1,4 @@
-# DatasetDM
+# DatasetDM (NeurIPS2023)
 Official code for 'DatasetDM:Synthesizing Data with Perception Annotations Using Diffusion Models'
 
 
@@ -10,6 +10,8 @@ Official code for 'DatasetDM:Synthesizing Data with Perception Annotations Using
 [Project Website](https://weijiawu.github.io/DatasetDM_page/)  | [Paper](https://arxiv.org/abs/2308.06160)
 
 ## :fire: News
+
+* **[2023.9.22]** the paper was accepted by NeurIPS2023.
 
 * **[note]** We will release the code within three months. Please wait.
 
