@@ -11,6 +11,8 @@ Official code for 'DatasetDM:Synthesizing Data with Perception Annotations Using
 
 ## :fire: News
 
+* **[2023.9.24]** The weights for P-Decoder on VOC2012 and COCO2017 are released.
+
 * **[2023.9.22]** the paper was accepted by NeurIPS2023.
 
 * **[note]** We will release the code within three months. Please wait.
