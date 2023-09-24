@@ -172,6 +172,9 @@ dataset/
 
 #### [VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
 
+Training the P-deocder, or we also provide the [trained weight](https://drive.google.com/file/d/12BzF51jwKpwmUb-jDyB5LHRrlk6DnfxR/view?usp=sharing) with 100 real images.
+
+
 ```sh
 # For Segmentation Tasks
 sh ./script/train_semantic_VOC.sh
@@ -218,6 +221,8 @@ python ./DataDiffusion/vis_Cityscapes.py
 ### Instance Segmentation
 
 #### [COCO 2017](https://cocodataset.org/#home)
+Training the P-deocder, or we also provide the [trained weight](https://drive.google.com/file/d/12MlNvk_P5k_MYbFvD65v4KiaaGV9Jysx/view?usp=sharing) with 400 real images.
+
 ```sh
 # For Segmentation Tasks
 sh ./script/train_COCO.sh
@@ -398,7 +403,7 @@ This work draws inspiration from the following code as references. We extend our
 @article{wu2023datasetdm,
   title={DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models},
   author={Wu, Weijia and Zhao, Yuzhong and Chen, Hao and Gu, Yuchao and Zhao, Rui and He, Yefei and Zhou, Hong and Shou, Mike Zheng and Shen, Chunhua},
-  journal={arXiv preprint arXiv:2308.06160},
+  journal={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)},
   year={2023}
 }
 ```
