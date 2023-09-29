@@ -78,11 +78,14 @@ python -m pip install -r requirements.txt
 
 Download the weights and configuration files of [SD 1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4/tree/main) and place them in the ```./dataset/ckpts``` directory.
 
+
+
 Download the diffusers
 ```
 cd model
 git clone https://github.com/huggingface/diffusers.git
 ```
+There may be some errors (such as https://github.com/showlab/DatasetDM/issues/11) due to the update of the Diffuser version. We recommend using Diffuser 0.3.0 (https://pypi.org/project/diffusers/0.3.0/#files).
 
 ### Dataset Prepare
 
