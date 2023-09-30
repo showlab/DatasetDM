@@ -87,6 +87,9 @@ git clone https://github.com/huggingface/diffusers.git
 ```
 There may be some errors (such as https://github.com/showlab/DatasetDM/issues/11) due to the update of the Diffuser version. We recommend using Diffuser 0.3.0 (https://pypi.org/project/diffusers/0.3.0/#files).
 
+Alternatively, you can directly utilize our diffuser, as there have been some modifications in ```./model/diffusers/models/unet_blocks.py```.
+
+
 ### Dataset Prepare
 
 - Depth Estimation: Please follow [MED](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) to prepare the dataset on ```./data```
