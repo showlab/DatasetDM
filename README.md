@@ -78,6 +78,9 @@ python -m pip install -r requirements.txt
 
 Download the weights and configuration files of [SD 1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4/tree/main) and place them in the ```./dataset/ckpts``` directory.
 
+Or we have uploaded the corresponding SD weights used in my experiments to Google Drive (around 4.5GB) as following:
+
+https://drive.google.com/file/d/12lrOexljsyvFB30-ltbYXnIpQ8oP4lrW/view?usp=sharing
 
 
 Download the diffusers
